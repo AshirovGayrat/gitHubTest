@@ -9,5 +9,9 @@ public class Main {
         }
         System.out.println("end");
         System.out.println("THE_END");
+
+        System.out.println(" Man yana yozdim ");
+
+
     }
 }
