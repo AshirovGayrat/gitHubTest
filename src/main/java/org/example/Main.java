@@ -12,6 +12,8 @@ public class Main {
 
         System.out.println(" Man yana yozdim ");
 
+        System.out.println("Aziz push qldi");
+
 
     }
 }
