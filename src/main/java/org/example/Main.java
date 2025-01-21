@@ -12,5 +12,7 @@ public class Main {
 
         System.out.println(" Man yana yozdim ");
         System.out.println("Muhammadyusuf");
+
+        System.out.println("Kofi breakga chqamzmi");
     }
 }
