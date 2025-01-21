@@ -1,4 +1,4 @@
-package org.example;
+    package org.example;
 
 public class Main {
     public static void main(String[] args) {
@@ -7,11 +7,10 @@ public class Main {
         for (int i = 1; i <= 5; i++) {
             System.out.println("i = " + i);
         }
-        System.out.println("end");
+        System.out.println("the end");
         System.out.println("THE_END");
 
         System.out.println(" Man yana yozdim ");
-
-
+        System.out.println("Muhammadyusuf");
     }
 }
